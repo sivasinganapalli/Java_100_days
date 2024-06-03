@@ -1,0 +1,115 @@
+Week 1: Basic String Operations
+Day 1: Reverse a String
+Day 2: Check if a String is a Palindrome
+Day 3: Count the Number of Vowels and Consonants
+Day 4: Find the First Non-Repeated Character
+Day 5: Convert String to Upper Case and Lower Case
+Day 6: Count the Number of Words in a String
+Day 7: Replace a Substring in a String
+Week 2: Advanced String Operations
+Day 8: Check if Two Strings are Anagrams
+Day 9: Remove Duplicate Characters from a String
+Day 10: Find All Substrings of a String
+Day 11: Check if a String Contains Only Digits
+Day 12: Split a String by a Given Delimiter
+Day 13: Find the Longest Palindromic Substring
+Day 14: String Rotation Check
+Week 3: Basic Array Operations
+Day 15: Find the Largest and Smallest Element in an Array
+Day 16: Sort an Array
+Day 17: Reverse an Array
+Day 18: Find the Second Largest Element in an Array
+Day 19: Merge Two Arrays
+Day 20: Remove Duplicates from an Array
+Day 21: Rotate an Array by n Positions
+Week 4: Advanced Array Operations
+Day 22: Find the Missing Number in an Array
+Day 23: Find Pairs in an Array that Sum to a Given Number
+Day 24: Find the Intersection of Two Arrays
+Day 25: Find the Union of Two Arrays
+Day 26: Implement a Dynamic Array
+Day 27: Find the Majority Element in an Array
+Day 28: Rearrange Positive and Negative Numbers
+Week 5: Introduction to OOP Concepts
+Day 29: Create a Class and Object
+Day 30: Implement Constructor Overloading
+Day 31: Implement Method Overloading
+Day 32: Implement Method Overriding
+Day 33: Use ‘this’ Keyword in a Class
+Day 34: Create a Static Method and Variable
+Day 35: Implement Encapsulation
+Week 6: Inheritance and Polymorphism
+Day 36: Single Inheritance Example
+Day 37: Multilevel Inheritance Example
+Day 38: Hierarchical Inheritance Example
+Day 39: Implement Polymorphism using Inheritance
+Day 40: Implement Abstract Class and Abstract Methods
+Day 41: Create and Implement Interfaces
+Day 42: Implement Multiple Inheritance using Interfaces
+Week 7: Advanced OOP Concepts
+Day 43: Implement Inner Classes
+Day 44: Use Anonymous Inner Classes
+Day 45: Implement Enum Types
+Day 46: Implement Singleton Design Pattern
+Day 47: Implement Factory Design Pattern
+Day 48: Implement Builder Design Pattern
+Day 49: Use Generics in Classes and Methods
+Week 8: Working with Collections
+Day 50: Implement ArrayList Operations
+Day 51: Implement LinkedList Operations
+Day 52: Implement HashMap Operations
+Day 53: Implement TreeMap Operations
+Day 54: Implement HashSet Operations
+Day 55: Implement TreeSet Operations
+Day 56: Iterate through Collections using Iterator and ListIterator
+Week 9: String Operations in Real-world Scenarios
+Day 57: Validate Email Address Format
+Day 58: Extract Domain Name from Email Address
+Day 59: Validate IP Address Format
+Day 60: Count Occurrences of a Character in a String
+Day 61: Remove Whitespaces from a String
+Day 62: Find Duplicate Words in a String
+Day 63: Sort Words in a String Alphabetically
+Week 10: Array Operations in Real-world Scenarios
+Day 64: Find Duplicate Elements in an Array
+Day 65: Implement Binary Search in an Array
+Day 66: Find the Maximum Product of Two Integers in an Array
+Day 67: Move All Zeros to the End of an Array
+Day 68: Find Common Elements in Three Sorted Arrays
+Day 69: Implement Matrix Multiplication
+Day 70: Find the Largest Sum Contiguous Subarray (Kadane’s Algorithm)
+Week 11: Building Automation Test Utilities (Part 1)
+Day 71: Utility to Read Data from a Properties File
+Day 72: Utility to Write Data to a Properties File
+Day 73: Utility to Read Data from an Excel File
+Day 74: Utility to Write Data to an Excel File
+Day 75: Utility to Read Data from a CSV File
+Day 76: Utility to Write Data to a CSV File
+Day 77: Utility to Capture Screenshots in Selenium
+Week 12: Building Automation Test Utilities (Part 2)
+Day 78: Utility to Handle Alerts in Selenium
+Day 79: Utility to Handle Windows in Selenium
+Day 80: Utility to Handle Frames in Selenium
+Day 81: Utility to Read Data from a Database
+Day 82: Utility to Write Data to a Database
+Day 83: Utility to Log Test Results
+Day 84: Utility to Generate Test Reports
+Week 13: Mini Automation Framework (Part 1)
+Day 85: Set Up Maven Project for Automation Framework
+Day 86: Create Base Test Class
+Day 87: Implement WebDriverManager for Browser Setup
+Day 88: Create Utility Class for Common Functions
+Day 89: Create Page Object Model (POM) Structure
+Day 90: Implement Sample Test Case using POM
+Week 14: Mini Automation Framework (Part 2)
+Day 91: Integrate TestNG with the Framework
+Day 92: Implement Data-Driven Testing using TestNG
+Day 93: Add Logging Functionality to the Framework
+Day 94: Integrate Reporting using ExtentReports
+Day 95: Implement Parallel Test Execution
+Day 96: Add Configuration Management using Properties File
+Day 97: Implement Cross-Browser Testing
+Week 15: Final Projects and Review
+Day 98: Create a Complete Automation Test Suite for a Sample Web Application
+Day 99: Optimize and Refactor the Automation Framework
+Day 100: Review and Document the Automation Framework
