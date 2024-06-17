@@ -23,6 +23,7 @@ public class String_Rotation_check {
             String concat = actualString + actualString;
             return concat.contains(RotationString);
 
+        
         }
         return false;
     }
